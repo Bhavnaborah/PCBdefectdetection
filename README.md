@@ -22,5 +22,7 @@ Implemented image preprocessing, augmentation, and model optimization to improve
 - **Libraries:** Python, OpenCV, NumPy, Ultralytics  
 - **Tools:** Jupyter Notebook, GitHub  
 
+## Photos
+![WhatsApp Image 2025-09-24 at 21 18 31_8620fae2](https://github.com/user-attachments/assets/5d6a5a16-51f4-4241-94d1-255bd6937007)
 
 
